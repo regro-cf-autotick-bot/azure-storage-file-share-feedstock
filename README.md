@@ -1,11 +1,11 @@
-About azure-storage-file-share
-==============================
+About azure-storage-file-share-feedstock
+========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/azure-storage-file-share-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-file-share
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/azure-storage-file-share-feedstock/blob/main/LICENSE.txt)
 
 Summary: Azure Storage File Share client library for Python
 

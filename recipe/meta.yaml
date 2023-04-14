@@ -1,5 +1,5 @@
 {% set name = "azure-storage-file-share" %}
-{% set version = "12.10.1" %}
+{% set version = "12.12.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.zip
-  sha256: 5679bbd9c760ffd3fe27749c9e3e63706ea42c274854c1a7c6753d6a7da8c464
+  sha256: cf7e47f749fc06ecb99b64612ab4bd94227b9931497a4c27c2865717c3daa089
 
 build:
   number: 0
